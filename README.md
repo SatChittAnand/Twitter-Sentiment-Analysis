@@ -65,8 +65,8 @@ nltk.download('punkt')
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/twitter-sentiment-analysis.git
-   cd twitter-sentiment-analysis
+   git clone https://github.com/SatChittAnand/Twitter-Sentiment-Analysis.git
+   cd Twitter-Sentiment-Analysis
    ```
 
 2. Place the datasets `train_SentimentAnalysis.csv` and `test_SentimentAnalysis.csv` in the root directory.
