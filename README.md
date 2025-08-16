@@ -1,6 +1,7 @@
 ## 💬 Twitter Sentiment Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Colab](https://img.shields.io/badge/Colab-Compatible-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![ML Models](https://img.shields.io/badge/Models-LogReg%2C%20XGBoost%2C%20DecisionTree-orange)
@@ -91,7 +92,7 @@ The script will:
 | Logistic Regression| BoW, TF-IDF       | F1-Score          |
 | XGBoost Classifier | BoW, TF-IDF       | F1-Score          |
 | Decision Tree      | BoW, TF-IDF       | F1-Score          |
-|--------------------|-------------------|-------------------|
+
 ---
 
 ## 📊 Results
