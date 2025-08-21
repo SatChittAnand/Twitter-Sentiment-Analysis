@@ -4,6 +4,7 @@
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
 </div>
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Colab](https://img.shields.io/badge/Colab-Compatible-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
