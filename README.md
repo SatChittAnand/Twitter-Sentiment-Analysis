@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
-<span style="font-size:22px; font-weight:bold;"> Twitter Sentiment Analysis Project </span>
+<span style="font-size:25px; font-weight:bold;"> Twitter Sentiment Analysis Project </span>
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
