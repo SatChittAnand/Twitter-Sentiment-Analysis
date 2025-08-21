@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
- <P>Twitter Sentiment Analysis Project</P>
+ <h1>Twitter Sentiment Analysis Project</h1>
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
 </div>
 <div align="center">
