@@ -2,8 +2,6 @@
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
 <span style="font-size:22px; font-weight:bold;"> Twitter Sentiment Analysis Project </span>
 <img src="https://media.tenor.com/manO5allgawAAAAC/twitter-bird.gif" alt="Flying Twitter Bird" width="40"/>
-</div>
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Colab](https://img.shields.io/badge/Colab-Compatible-yellow)
@@ -11,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![ML Models](https://img.shields.io/badge/Models-LogReg%2C%20XGBoost%2C%20DecisionTree-orange)
 
-</div?
+</div>
 
 A modular machine learning pipeline for classifying tweet sentiments as **positive** or **negative**, using robust text preprocessing, feature engineering, and model comparison. This project demonstrates practical NLP techniques and evaluates multiple classifiers to identify the most effective model for real-world sentiment prediction.
 
