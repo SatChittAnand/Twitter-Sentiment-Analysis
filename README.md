@@ -12,7 +12,7 @@
 ![ML Models](https://img.shields.io/badge/Models-LogReg%2C%20XGBoost%2C%20DecisionTree-orange)
 </div>
 
-A modular machine learning pipeline for classifying tweet sentiments as **positive** or **negative**, using robust text preprocessing, feature engineering, and model comparison. This project demonstrates practical NLP techniques and evaluates multiple classifiers to identify the most effective model for real-world sentiment prediction.
+A modular machine learning pipeline for classifying tweet sentiments as **positive** or **negative**, using robust text preprocessing, feature engineering, and model comparison. This project demonstrates practical *NLP* techniques and evaluates multiple classifiers to identify the most effective model for real-world sentiment prediction.
 
 ---
 
