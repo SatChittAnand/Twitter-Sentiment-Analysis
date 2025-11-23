@@ -31,7 +31,7 @@ A modular machine learning pipeline for classifying tweet sentiments as **positi
 ```mermaid
 graph TD
 A[Load Data] --> B[Preprocess Tweets]
-B --> C[Feature Extraction: BoW & TF-IDF]
+B --> C[Feature Extraction: CBoW & TF-IDF]
 C --> D[Train Models: LogReg, XGBoost, Decision Tree]
 D --> E[Evaluate via F1-Score]
 E --> F[Visualize Results]
